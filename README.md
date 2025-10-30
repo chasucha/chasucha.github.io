@@ -1,4 +1,5 @@
 # chasucha.github.io
+# README 수정 11시 53분
 # 🍳 밀키트 사업 플랫폼 (MealKit Business Platform)
 
 > 신선한 식재료와 간편한 조리법을 한 번에!  
